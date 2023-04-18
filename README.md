@@ -11,4 +11,4 @@ In here I'll be uploading learning resources for programmers from various areas 
 
 ## Books
 
-- Clean Code by Robert C. Martin. [Read it here](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
+- Clean Code by Robert C. Martin. [:blue_book:](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
