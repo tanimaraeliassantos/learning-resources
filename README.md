@@ -12,7 +12,7 @@ In here I'll be uploading learning resources for programmers from various areas 
 ## Books
 
 - Clean Code by Robert C. Martin. [ Read it online here. :blue_book:](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
-- You don't know JS Yet by Kyle Simpson. [Read the first edition of this series online here. :red_book:](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+- You don't know JS Yet by Kyle Simpson. [Read the first edition of this series online here. 📚](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 
 ## Tools
 
